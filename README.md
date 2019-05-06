@@ -3,6 +3,6 @@
   <img src="jeff.jpg" alt="Image">
   <h2>By Hen<h2/>
 <a href="http://duckhuntjs.com/">Duck Hunt</a>
-<form action="http://google.com">
-    <input type="submit" value="Duck Hunt: The Prequel" />
-</form>
+<a href="https://www.payable-legacy.gq/mini.php">Duck Hunt: The Prequel </a>
+<a href="http://duckhuntjs.com/">Duck Hunt 3</a>
+
